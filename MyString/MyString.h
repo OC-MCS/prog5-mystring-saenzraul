@@ -1,3 +1,3 @@
 #pragma once
-// class declaration goes here
+// MyString class declaration goes here
 

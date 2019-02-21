@@ -1,4 +1,4 @@
-#include "MyString.h"
+// MyString implementation file
 
 
 
